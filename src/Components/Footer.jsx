@@ -27,7 +27,11 @@ function Footer() {
             </div>
           </li>
         </ul>
-        <h2 className="text-green-600 text-5xl font-normal font-secondary mt-14">© 2024 Danklin</h2>
+        <h1 className="text-5xl font-normal font-['Fruktur'] tracking-wide flex items-end justify-end gap-1 mt-12">
+          <span className="text-red-500 ">©</span>
+          <span className="text-sky-600 ">2024</span>
+          <span className="text-amber-300">Danklin</span>
+        </h1>
       </div>
     </footer>
   );

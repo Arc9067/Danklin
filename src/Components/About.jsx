@@ -5,8 +5,16 @@ function About() {
   return (
     <section className="pb-36 w-full">
       <div className="container w-full flex justify-center items-center flex-col gap-9">
-        <h1 className="text-green-600 text-5xl font-normal font-secondary tracking-wide">
-          ABOUT US
+        <h1>
+          <span className="text-red-500 text-5xl font-normal font-['Fruktur'] tracking-wide">
+            DANKLIN
+          </span>
+          <span className="text-green-600 text-5xl font-normal font-['Fruktur'] tracking-wide">
+            {" "}
+          </span>
+          <span className="text-sky-600 text-5xl font-normal font-['Fruktur'] tracking-wide">
+            CHRONICLES
+          </span>
         </h1>
         <p className="lg:max-w-[80%] text-black text-xl font-normal font-['Mona Sans'] leading-7 tracking-tight">
           Welcome to MemeMint, where magic meets the blockchain. Our journey
