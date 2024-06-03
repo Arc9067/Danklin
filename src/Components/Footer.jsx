@@ -8,7 +8,10 @@ function Footer() {
     <footer className="w-full py-8">
       <div className="container flex flex-col justify-center items-center">
         <div className="justify-center items-center gap-9 flex flex-wrap">
-          <a href="" className="justify-center items-center gap-2.5 flex">
+          <a
+            href="https://twitter.com/DanklinETH"
+            className="justify-center items-center gap-2.5 flex"
+          >
             <img src={x} alt="" />
             <div className="text-black text-xl font-normal font-['Mona Sans'] leading-loose">
               Twitter (X)
