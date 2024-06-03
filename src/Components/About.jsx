@@ -5,7 +5,7 @@ function About() {
   return (
     <section className="pb-36 w-full">
       <div className="container w-full flex justify-center items-center flex-col gap-9">
-        <h1>
+        <h1 className="text-center">
           <span className="text-red-500 text-5xl font-normal font-['Fruktur'] tracking-wide">
             DANKLIN
           </span>
