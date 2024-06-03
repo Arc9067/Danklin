@@ -49,7 +49,7 @@ function Hero() {
                 BUY HERE
               </a>
               <a
-                href=""
+                href="https://t.me/DanklinETH"
                 className="w-32 px-7 py-3.5 bg-sky-600 rounded-full border-2 border-lime-400 justify-center items-center gap-2.5 flex text-white text-sm font-normal font-['Fruktur'] leading-tight tracking-tight"
               >
                 TELEGRAM
