@@ -39,7 +39,7 @@ function Hero() {
               </span>
             </h1>
             <p className=" text-black text-xl font-medium font-['Mona Sans'] tracking-wide break-all">
-              CA:0xd9202965f8db722ea737a529f05bc019d8bdc152
+              CA: 0x00000000000000000000000000000
             </p>
             <div className="justify-start items-start gap-4 inline-flex">
               <a
