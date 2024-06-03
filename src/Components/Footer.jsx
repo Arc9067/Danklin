@@ -29,7 +29,7 @@ function Footer() {
         </ul>
         <h1 className="text-5xl font-normal font-['Fruktur'] tracking-wide flex items-end justify-end gap-1 mt-12">
           <span className="text-red-500 ">©</span>
-          <span className="text-sky-600 ">2024</span>
+          <span className="text-cyan-400 ">2024</span>
           <span className="text-amber-300">Danklin</span>
         </h1>
       </div>

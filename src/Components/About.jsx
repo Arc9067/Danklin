@@ -12,7 +12,7 @@ function About() {
           <span className="text-green-600 text-5xl font-normal font-['Fruktur'] tracking-wide">
             {" "}
           </span>
-          <span className="text-sky-600 text-5xl font-normal font-['Fruktur'] tracking-wide">
+          <span className="text-cyan-400 text-5xl font-normal font-['Fruktur'] tracking-wide">
             CHRONICLES
           </span>
         </h1>
